@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 - 👋 Hi, I’m @gmijo47
 - 👀 I’m interested in Game, AntiCheat, Software Development
 
