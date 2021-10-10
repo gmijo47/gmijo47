@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <!-- Your title -->
-## Hi, I'm gmijo, a Developer🚀 from Bosnia and Herzegovina.
+## Hi, I'm gmijo, an IT Nerd and Developer🚀 from Bosnia and Herzegovina.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
