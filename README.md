@@ -14,10 +14,6 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
-**Languages and Tools:** 
-
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
@@ -35,7 +31,7 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 <p align="center">
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=gmijo47.gmijo47" />
+
   <!-- https://github.com/wesky93/views this is a clone of the hits -->
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/gmijo47/gmijo47.svg" />
 </p>
