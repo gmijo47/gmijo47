@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <!-- Your title -->
-## Hi, I'm gmijo, an IT Nerd and Developer🚀 from Bosnia and Herzegovina.
+## Hi, I'm gmijo.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -14,7 +14,6 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
--->
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=gmijo47&show_icons=true&hide_border=true" />
